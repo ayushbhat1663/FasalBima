@@ -1,0 +1,12 @@
+node_modules
+.git
+.gitignore
+.expo
+dist
+build
+dataset
+data
+*.log
+
+# Backend folder (Consolidated backend files)
+backend/
