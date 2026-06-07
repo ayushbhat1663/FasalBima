@@ -240,3 +240,18 @@ OpenCV
 APIs
 Weather API
 SMS/Email Notification API
+
+
+
+
+
+## Live Demo
+
+### Web Application
+Browser_Accessible_Link
+
+### Android APK
+Android_Application_Download_Link
+
+### APK QR Code
+Scan Android_Application_Download_QR.jpg
